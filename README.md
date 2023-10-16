@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://instagram.com/kalievv.23?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
+  <a href="https://instagram.com/mamytov1111?igshid=OGQ5ZDc2ODk2ZA==">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://wa.me/message/XKQCUMUPJWQGI1">
+  <a href="https://wa.me/message/MQXLXG76CI37M1">
     <img src="https://img.shields.io/badge/Whatsapp-rgb(35, 134, 54)?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
-  <a href="https://t.me/kalievv_23">
+  <a href="http://t.me/baktiarovich02">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
@@ -22,7 +22,7 @@
 <hr/>
 
 ### :man_technologist: About Me :
-🔍 Имамазим Ашыров - Фронтенд разработчик. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+🔍 Бахтияр уулу Байел - Фронтенд разработчик. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 📈 Ориентирован на результат и оптимальные решения.<br>
 📚 Постоянное обновление знаний в соответствии с актуальными тенденциями рынка.<br>
 📞 Для сотрудничества и консультаций: <a href="https://wa.me/message/XKQCUMUPJWQGI1">+996220 265 910</a>.<br>
