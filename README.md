@@ -4,7 +4,7 @@
   <a href="https://instagram.com/mamytov1111?igshid=OGQ5ZDc2ODk2ZA==">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://wa.me/message/MQXLXG76CI37M1">
+  <a href="https://wa.me/qr/C6GTFVLSNUU2F1">
     <img src="https://img.shields.io/badge/Whatsapp-rgb(35, 134, 54)?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
   <a href="http://t.me/baktiarovich02">
@@ -25,7 +25,7 @@
 🔍 Бахтияр уулу Байел - Фронтенд разработчик. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 📈 Ориентирован на результат и оптимальные решения.<br>
 📚 Постоянное обновление знаний в соответствии с актуальными тенденциями рынка.<br>
-📞 Для сотрудничества и консультаций: <a href="https://wa.me/message/XKQCUMUPJWQGI1">+996220 265 910</a>.<br>
+📞 Для сотрудничества и консультаций: <a href="https://wa.me/qr/C6GTFVLSNUU2F1">+996508116886</a>.<br>
 📍 Город: <a href="https://maps.app.goo.gl/867tatZ4iquoh5Sf6">Osh Kyrgyzstan</a>.<br>
 
 ### :hammer_and_wrench: Languages and Tools :
